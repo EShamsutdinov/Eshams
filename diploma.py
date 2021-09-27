@@ -28,5 +28,6 @@ class FurnacePerformance:
         self.salt_sugar=input("Кол-во соли и сахара (если нет введите -): ")
         self.yeasts=input("Кол-во дрожжей (если нет введите -): ")
         self.settings()
+        HELP
         
 FurnacePerformance()
